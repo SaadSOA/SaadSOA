@@ -1,6 +1,6 @@
 # 👋🏾 Hi, I'm Saad!
 👨🏾‍💻 DevOps Engineer sharing my journey and learnings in tech <br/>
-📚 I’m currently learning Certified Kubernetes Administrator (CKA) &  AWS Certified SysOps Administrator <be>
+📚 I’m currently learning AWS Certified SysOps Administrator & will pursue Certified Kubernetes Administrator (CKA) next <be>
 
 
 
